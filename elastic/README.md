@@ -1,0 +1,1 @@
+Répertoire ElasticSearch par défaut.
